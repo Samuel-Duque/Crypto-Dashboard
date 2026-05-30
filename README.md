@@ -50,7 +50,7 @@ Actualmente el proyecto se encuentra en desarrollo y se irá ampliando progresiv
 Clona el repositorio:
 
 ```bash
-git clone https://github.com/Samuel-Duque/Crypto-Dashboard
+git clone https://github.com/Samuel-Duque/Crypto-Dashboard.git
 ```
 
 Ingresa al directorio:
