@@ -2,7 +2,7 @@ import type { CryptoSummary } from "../types/CryptoSummary";
 import type { CryptoDetails } from "../types/CrypyoDetail";
 
 const BASE_URL = import.meta.env.VITE_API_URL;
-const API_KEY = import.meta.env.VITE_COINGECKO_API_KEY;
+const API_KEY = import.meta.env.VITE_API_KEY;
 
 //API endpoint y query parameter para expresar en dolares
 export async function getCryptos(): Promise<CryptoSummary[]> {
